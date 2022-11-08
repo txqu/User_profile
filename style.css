@@ -1,0 +1,49 @@
+<style>
+    <body{}
+    .container {
+        width: 500px;
+        height: auto;
+        background-color: #f5f0f0;
+        padding: 10px;
+        float: left;
+        border-radius: 5px;
+    }
+
+    .image-user {
+        width: 40%;
+        float: left;
+    }
+
+    .profile-user {
+        width: 60%;
+        float: left;
+        background-color: ;
+    }
+
+    .img-rounded {
+        max-width: 90%;
+        border-radius: 6px;
+    }
+
+    .name-user {
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .contacts-list {
+        padding-left: 0;
+        margin-top: 10px;
+        list-style-type: none;
+    }
+
+    .btn-follow {
+        background-color: #428bca;
+        color: white;
+        padding: 5px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+        font-weight: bold;
+        border-color: #357ebd;
+    }
+</style>
